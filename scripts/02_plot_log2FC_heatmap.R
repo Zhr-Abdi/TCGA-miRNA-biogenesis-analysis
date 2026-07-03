@@ -179,3 +179,34 @@ pheatmap(
   width = 10,
   height = 7
 )
+
+# Save clustered heatmap as TIFF
+#_________________________________________________________________
+
+tiff(
+  filename = file.path(figures_dir, "clustered_heatmap_log2FC_16_genes_13_cancers.tiff"),
+  width = 10,
+  height = 7,
+  units = "in",
+  res = 300,
+  compression = "lzw"
+)
+
+pheatmap(
+  heatmap_matrix,
+  show_colnames = TRUE,
+  show_rownames = TRUE,
+  fontsize = 12,
+  angle_col = 45,
+  cluster_rows = TRUE,
+  cluster_cols = TRUE,
+  clustering_distance_rows = "euclidean",
+  clustering_distance_cols = "euclidean",
+  clustering_method = "complete",
+  color = heatmap_colors,
+  breaks = heatmap_breaks,
+  border_color = "grey70",
+  main = "log2FC"
+)
+
+dev.off()

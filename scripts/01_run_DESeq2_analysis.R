@@ -274,7 +274,7 @@ run_deseq2_for_cancer <- function(cancer_code, project_id, data_dir, output_dir,
   
   write.csv(
     normalized_counts,
-    file = file.path(cancer_output_dir, paste0("NormalizedCount_", cancer_code, ".csv")),
+    file = file.path(cancer_output_dir, paste0("normalized_counts_log2_", cancer_code, ".csv")),
     quote = FALSE
   )
   

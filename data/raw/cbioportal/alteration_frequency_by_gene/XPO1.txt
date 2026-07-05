@@ -1,0 +1,23 @@
+Cancer Study	Alteration Frequency	Alteration Type	Alteration Count
+Lung Squamous Cell Carcinoma (TCGA, Firehose Legacy)	6.986027944111776	amp	35
+Lung Squamous Cell Carcinoma (TCGA, Firehose Legacy)	0.39920159680638717	mutated	2
+Esophageal Carcinoma (TCGA, Firehose Legacy)	1.6216216216216217	amp	3
+Esophageal Carcinoma (TCGA, Firehose Legacy)	2.1621621621621623	mutated	4
+Bladder Urothelial Carcinoma (TCGA, Firehose Legacy)	2.9197080291970803	amp	12
+Bladder Urothelial Carcinoma (TCGA, Firehose Legacy)	0.7299270072992701	mutated	3
+Uterine Corpus Endometrial Carcinoma (TCGA, Firehose Legacy)	0.9174311926605505	amp	5
+Uterine Corpus Endometrial Carcinoma (TCGA, Firehose Legacy)	2.2018348623853212	mutated	12
+Stomach Adenocarcinoma (TCGA, Firehose Legacy)	0.8368200836820083	amp	4
+Stomach Adenocarcinoma (TCGA, Firehose Legacy)	2.092050209205021	mutated	10
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	1.3711151736745886	amp	15
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	1.0054844606946984	mutated	11
+Liver Hepatocellular Carcinoma (TCGA, Firehose Legacy)	0.2652519893899204	homdel	1
+Liver Hepatocellular Carcinoma (TCGA, Firehose Legacy)	0.2652519893899204	amp	1
+Liver Hepatocellular Carcinoma (TCGA, Firehose Legacy)	1.3262599469496021	mutated	5
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.1937984496124031	homdel	1
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.5813953488372093	amp	3
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.5813953488372093	mutated	3
+Kidney Renal Clear Cell Carcinoma (TCGA, Firehose Legacy)	0.9416195856873822	mutated	5
+Prostate Adenocarcinoma (TCGA, Firehose Legacy)	0.4016064257028112	homdel	2
+Prostate Adenocarcinoma (TCGA, Firehose Legacy)	0.2008032128514056	amp	1
+Colorectal Adenocarcinoma (TCGA, Firehose Legacy)	0.32310177705977383	mutated	2

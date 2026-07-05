@@ -1,0 +1,27 @@
+Cancer Study	Alteration Frequency	Alteration Type	Alteration Count
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	0.09140767824497258	multiple	1
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	9.140767824497258	amp	100
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	0.3656307129798903	mutated	4
+Esophageal Carcinoma (TCGA, Firehose Legacy)	3.2432432432432434	amp	6
+Esophageal Carcinoma (TCGA, Firehose Legacy)	2.1621621621621623	mutated	4
+Bladder Urothelial Carcinoma (TCGA, Firehose Legacy)	3.8929440389294405	amp	16
+Bladder Urothelial Carcinoma (TCGA, Firehose Legacy)	1.4598540145985401	mutated	6
+Liver Hepatocellular Carcinoma (TCGA, Firehose Legacy)	4.774535809018567	amp	18
+Stomach Adenocarcinoma (TCGA, Firehose Legacy)	2.301255230125523	amp	11
+Stomach Adenocarcinoma (TCGA, Firehose Legacy)	1.2552301255230125	mutated	6
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	3.10077519379845	amp	16
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.3875968992248062	mutated	2
+Uterine Corpus Endometrial Carcinoma (TCGA, Firehose Legacy)	0.1834862385321101	homdel	1
+Uterine Corpus Endometrial Carcinoma (TCGA, Firehose Legacy)	1.651376146788991	amp	9
+Uterine Corpus Endometrial Carcinoma (TCGA, Firehose Legacy)	1.2844036697247707	mutated	7
+Lung Squamous Cell Carcinoma (TCGA, Firehose Legacy)	2.3952095808383236	amp	12
+Lung Squamous Cell Carcinoma (TCGA, Firehose Legacy)	0.19960079840319359	mutated	1
+Colorectal Adenocarcinoma (TCGA, Firehose Legacy)	0.9693053311793215	amp	6
+Colorectal Adenocarcinoma (TCGA, Firehose Legacy)	0.32310177705977383	mutated	2
+Prostate Adenocarcinoma (TCGA, Firehose Legacy)	1.0040160642570282	amp	5
+Prostate Adenocarcinoma (TCGA, Firehose Legacy)	0.2008032128514056	mutated	1
+Glioblastoma Multiforme (TCGA, Firehose Legacy)	0.34071550255536626	amp	2
+Glioblastoma Multiforme (TCGA, Firehose Legacy)	0.6814310051107325	mutated	4
+Kidney Renal Clear Cell Carcinoma (TCGA, Firehose Legacy)	0.5649717514124294	amp	3
+Kidney Renal Clear Cell Carcinoma (TCGA, Firehose Legacy)	0.3766478342749529	mutated	2
+Thyroid Carcinoma (TCGA, Firehose Legacy)	0.5988023952095809	amp	3

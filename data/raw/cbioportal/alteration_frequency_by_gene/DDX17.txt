@@ -1,0 +1,26 @@
+Cancer Study	Alteration Frequency	Alteration Type	Alteration Count
+Stomach Adenocarcinoma (TCGA, Firehose Legacy)	0.20920502092050208	homdel	1
+Stomach Adenocarcinoma (TCGA, Firehose Legacy)	0.6276150627615062	amp	3
+Stomach Adenocarcinoma (TCGA, Firehose Legacy)	3.765690376569038	mutated	18
+Uterine Corpus Endometrial Carcinoma (TCGA, Firehose Legacy)	1.834862385321101	amp	10
+Uterine Corpus Endometrial Carcinoma (TCGA, Firehose Legacy)	0.9174311926605505	mutated	5
+Liver Hepatocellular Carcinoma (TCGA, Firehose Legacy)	1.5915119363395225	amp	6
+Liver Hepatocellular Carcinoma (TCGA, Firehose Legacy)	1.0610079575596816	mutated	4
+Kidney Renal Clear Cell Carcinoma (TCGA, Firehose Legacy)	2.6365348399246704	mutated	14
+Bladder Urothelial Carcinoma (TCGA, Firehose Legacy)	0.7299270072992701	homdel	3
+Bladder Urothelial Carcinoma (TCGA, Firehose Legacy)	1.2165450121654502	amp	5
+Esophageal Carcinoma (TCGA, Firehose Legacy)	0.5405405405405406	amp	1
+Esophageal Carcinoma (TCGA, Firehose Legacy)	1.0810810810810811	mutated	2
+Lung Squamous Cell Carcinoma (TCGA, Firehose Legacy)	1.3972055888223553	amp	7
+Lung Squamous Cell Carcinoma (TCGA, Firehose Legacy)	0.19960079840319359	mutated	1
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.1937984496124031	multiple	1
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.1937984496124031	homdel	1
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.5813953488372093	amp	3
+Lung Adenocarcinoma (TCGA, Firehose Legacy)	0.5813953488372093	mutated	3
+Colorectal Adenocarcinoma (TCGA, Firehose Legacy)	0.9693053311793215	mutated	6
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	0.18281535648994515	homdel	2
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	0.3656307129798903	amp	4
+Breast Invasive Carcinoma (TCGA, Firehose Legacy)	0.2742230347349177	mutated	3
+Glioblastoma Multiforme (TCGA, Firehose Legacy)	0.17035775127768313	amp	1
+Glioblastoma Multiforme (TCGA, Firehose Legacy)	0.34071550255536626	mutated	2
+Prostate Adenocarcinoma (TCGA, Firehose Legacy)	0.2008032128514056	mutated	1

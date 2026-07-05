@@ -1,0 +1,31 @@
+Cancer Type	Alteration Frequency	Alteration Type	Alteration Count
+Lung Cancer	7.894736842105263	homdel	3
+Lung Cancer	2.631578947368421	amp	1
+Pancreatic Cancer	0.6493506493506493	homdel	2
+Pancreatic Cancer	6.493506493506493	amp	20
+Endometrial Cancer	5	amp	1
+Bone Cancer	1.639344262295082	homdel	1
+Bone Cancer	3.278688524590164	amp	2
+Melanoma	1.8691588785046727	homdel	2
+Melanoma	0.9345794392523363	amp	1
+Melanoma	1.8691588785046727	mutated	2
+Ovarian Cancer	3.6363636363636362	homdel	4
+Ovarian Cancer	0.9090909090909091	amp	1
+Uterine Endometrioid Carcinoma	4.166666666666666	homdel	1
+Colorectal Cancer	3.8461538461538463	mutated	2
+Breast Cancer	1.8957345971563981	homdel	4
+Breast Cancer	1.8957345971563981	amp	4
+Hepatobiliary Cancer	2.793296089385475	homdel	10
+Hepatobiliary Cancer	0.5586592178770949	amp	2
+Hepatobiliary Cancer	0.27932960893854747	mutated	1
+Head and Neck Cancer	1.7857142857142856	homdel	1
+Head and Neck Cancer	1.7857142857142856	amp	1
+Soft Tissue Sarcoma	2.941176470588235	amp	1
+Esophagogastric Cancer	0.6134969325153374	homdel	1
+Esophagogastric Cancer	1.8404907975460123	amp	3
+Prostate Cancer	0.3663003663003663	homdel	1
+Prostate Cancer	0.7326007326007326	amp	2
+Prostate Cancer	0.3663003663003663	mutated	1
+Renal Cell Carcinoma	0.5376344086021506	amp	1
+Renal Cell Carcinoma	0.5376344086021506	mutated	1
+Embryonal Tumor	0.8403361344537815	homdel	1

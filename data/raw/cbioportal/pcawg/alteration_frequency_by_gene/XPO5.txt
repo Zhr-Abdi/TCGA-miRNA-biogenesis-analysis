@@ -1,0 +1,35 @@
+Cancer Type	Alteration Frequency	Alteration Type	Alteration Count
+Melanoma	17.75700934579439	amp	19
+Melanoma	2.803738317757009	mutated	3
+Lung Cancer	15.789473684210526	amp	6
+Bone Cancer	14.754098360655737	amp	9
+Esophagogastric Cancer	1.2269938650306749	homdel	2
+Esophagogastric Cancer	10.429447852760736	amp	17
+Esophagogastric Cancer	1.8404907975460123	mutated	3
+Hepatobiliary Cancer	12.290502793296088	amp	44
+Hepatobiliary Cancer	0.5586592178770949	mutated	2
+Breast Cancer	11.374407582938389	amp	24
+Breast Cancer	0.9478672985781991	mutated	2
+Colorectal Cancer	5.769230769230769	amp	3
+Colorectal Cancer	5.769230769230769	mutated	3
+Non-Small Cell Lung Cancer	8.695652173913043	amp	4
+Non-Small Cell Lung Cancer	2.1739130434782608	mutated	1
+Cervical Cancer	5	homdel	1
+Cervical Cancer	5	amp	1
+Endometrial Cancer	10	amp	2
+Uterine Endometrioid Carcinoma	8.333333333333332	amp	2
+Ovarian Cancer	0.9090909090909091	homdel	1
+Ovarian Cancer	6.363636363636363	amp	7
+Ovarian Cancer	0.9090909090909091	mutated	1
+Pancreatic Cancer	0.3246753246753247	homdel	1
+Pancreatic Cancer	3.896103896103896	amp	12
+Pancreatic Cancer	0.3246753246753247	mutated	1
+Bladder Cancer	4.3478260869565215	amp	1
+Head and Neck Cancer	1.7857142857142856	amp	1
+Head and Neck Cancer	1.7857142857142856	mutated	1
+Soft Tissue Sarcoma	2.941176470588235	amp	1
+Mature B-cell lymphoma	0.9708737864077669	amp	1
+Mature B-cell lymphoma	0.9708737864077669	mutated	1
+Prostate Cancer	1.8315018315018317	amp	5
+Glioma	1.4925373134328357	amp	2
+Embryonal Tumor	0.8403361344537815	mutated	1
